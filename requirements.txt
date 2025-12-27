@@ -1,0 +1,9 @@
+opencv-python
+ultralytics
+torch
+torchvision
+torchreid
+numpy
+matplotlib
+scikit-learn
+tqdm
